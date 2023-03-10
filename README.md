@@ -1,4 +1,4 @@
-### Hi! I'm **Matt**
+### 👋 Hi! I'm **Matt**
 
 I'm a data scientist at CollegeVine working on bringing free, data-driven college guidance to families. 
 
