@@ -6,4 +6,6 @@ In my free time, you can find me cooking, reading, skiing, and committing to ope
 
 Sometimes I [write about statistics, data science, or other miscellaneous things](https://mrkaye97.github.io/blog/).
 
-<img src="github-metrics.svg" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrkaye97&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrkaye97&theme=github)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrkaye97&theme=github)
