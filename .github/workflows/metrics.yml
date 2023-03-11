@@ -14,8 +14,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_notable: yes
-          plugin_posts: yes
-          plugin_posts_source: https://mrkaye97.github.io/blog
-          plugin_posts_limit: 2
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: mrkaye97
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 3
