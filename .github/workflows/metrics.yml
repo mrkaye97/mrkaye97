@@ -15,6 +15,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_notable: yes
           plugin_stackoverflow: yes
-          plugin_stackoverflow_user: mrkaye97
+          plugin_stackoverflow_user: 15403000
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 3
