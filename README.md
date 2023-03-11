@@ -6,4 +6,4 @@ In my free time, you can find me cooking, reading, skiing, and committing to ope
 
 Sometimes I [write about statistics, data science, or other miscellaneous things](https://mrkaye97.github.io/blog/).
 
-<img src="github-metrics.svg">
+<img src="github-metrics.svg" />
