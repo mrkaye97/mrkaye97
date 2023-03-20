@@ -4,7 +4,7 @@ I'm a data scientist at CollegeVine working on bringing free, data-driven colleg
 
 In my free time, you can find me cooking, reading, skiing, and committing to open-source. 
 
-Sometimes I [write about statistics, data science, or other miscellaneous things](https://matthewrkaye.com/blog/).
+Sometimes I [write about statistics, data science, or other miscellaneous things](https://matthewrkaye.com/posts.html).
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrkaye97&theme=github)
 
