@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm **Matt**
 
-I'm a data scientist at Klaviyo.
+I'm an engineer at Klaviyo.
 
 In my free time, you can find me cooking, reading, skiing, and committing to open-source. 
 
